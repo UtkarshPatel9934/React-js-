@@ -1,3 +1,4 @@
+---------------------------------------------------------------------------------------------------------------
 What is React?
 - React is JavaScript Library
 - The main focus is building UI as fast as possible.
@@ -31,4 +32,12 @@ React Prerequisites
 - React is Generally used with NPM
 - We can also use it with CDN - Content Delivery Network
 
+---------------------------------------------------------------------------------------------------------------
+
+
+Environment Setup 
+- npm - v 
+To check the Version for NPM
+- node - v 
+To check the Version for NODE
 
