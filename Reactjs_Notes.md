@@ -78,8 +78,77 @@ index.js - is the file that runs
 
 Interview Question?
 - What is the Alternative for the NPM
-Ans: Yarn
+Ans: Yarn Package Manager
 - is Owned by facebook
 
 
 ---------------------------------------------------------------------------------------------------------------
+
+Package.json file
+- it contains file name, Version, all the commands for running Script in Terminal, and details for all the included packages installed in it.
+- To check the React Version - it is in the Package.json -  "react": "^18.1.0",
+
+Package-lock.json
+- handles the details for the Package.json file.
+
+
+InterView Question
+What is the Differnce between them?
+- Package-lock.json maintains the History for all the instaled Packages and it's Version Control
+- it also maintains the all dependencis for particular the packages.
+- node module tree structure for all the packages.
+
+- while the Package.json will handles the appliation details.
+
+
+.gitignore
+- is a Github File that ignores some file which didn't require to be commited.
+- for eg: node_modules folder in the application.
+
+
+
+src folder
+- where we work with all the react code.
+
+	App.css
+	- styling the structure - Style file.
+
+	App.js
+	- is where we start writing the code.
+
+	App-test.js
+	- where we write all the test logic to test the app.
+	- Unit Test Cases.
+
+	index.css
+	- styling the structure - Style file.
+
+
+	index.js
+	- it is the Entry Point of the React Application.
+
+	reportWebVitals.js
+	- it shows th perforamce of the Application
+	- included in the index.js file at the end.
+	- reportWebVitals();
+	- it is not requied.
+
+
+	setupTests.js
+	- setup the test Cases for the UnitTest Cases.
+
+
+public folder
+- html kind of details which are not related to the React.js
+- it is where we dump all the code of React in the div tag -  <div id="root"></div>
+- the react code is came from the index.js under the Src to index.html file under the Public folder
+
+
+	manifest.json
+	- maintains the details for the icon
+	- and colours for theme
+	- is used to build Prograssive Web App
+
+	robots.txt
+	- for Google Search Engine
+	- SEO
