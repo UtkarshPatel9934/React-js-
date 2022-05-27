@@ -2,12 +2,23 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+
+
+// importing the User.js file
+import Users from './Users'
+
+
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+
+    {/* including the Tag for Users in it. */}
+    <Users />
+    {/* including the Tag for Users in it. */}
+
   </React.StrictMode>
 );
 

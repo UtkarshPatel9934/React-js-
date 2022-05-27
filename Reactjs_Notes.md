@@ -61,4 +61,25 @@ What is NPM
 
 
 - To install new package
-we use a cmd : npm install <package-name>
+we use a cmd : npm install <package-name></package-name>
+
+
+---------------------------------------------------------------------------------------------------------------
+
+App.js - is all the site content goes here!
+index.js - is the file that runs
+
+
+- Creating new file User.js in the src folder
+- We also have to refenrence it in the index.js file to get access of this file.
+- including the Tag for Users in it.
+
+
+
+Interview Question?
+- What is the Alternative for the NPM
+Ans: Yarn
+- is Owned by facebook
+
+
+---------------------------------------------------------------------------------------------------------------
