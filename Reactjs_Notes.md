@@ -41,3 +41,24 @@ To check the Version for NPM
 - node - v 
 To check the Version for NODE
 
+
+---------------------------------------------------------------------------------------------------------------
+
+
+To create React Appp
+- npm create-react-app <AppName>
+
+
+
+to Run the App 
+- npm start
+
+
+What is NPM 
+- node package manager
+- manages all the packages for the node
+- manages it in the Node modules folder
+
+
+- To install new package
+we use a cmd : npm install <package-name>
