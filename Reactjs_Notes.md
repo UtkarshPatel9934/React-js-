@@ -152,3 +152,25 @@ public folder
 	robots.txt
 	- for Google Search Engine
 	- SEO
+
+---------------------------------------------------------------------------------------------------------------
+
+Interview Question
+What is the most inportant file for the Project
+- Package.json file.
+
+Why we don't push the node_modules folder to the Github
+- it is too heavy (Large File Size)
+- we dont push it to Github because it can be easily generated using CMD: npm install
+- npm install - this command will take the dependencies from the Package.json file and install all required file from it as well as internall dependencies.
+
+To install new package we simply use
+- npm install <PackageName>
+- it automatically add the newly installed package to the Package.json file.
+- npm install react-validation
+-  "react-validation": "^3.0.7", in the Package.json file.
+
+If we want to uninstall the package
+- npm uninstall react-validation
+
+---------------------------------------------------------------------------------------------------------------
