@@ -1,5 +1,5 @@
 // functional component
-// NOTE: in the Functional COmponent there must be a return keyword included in it.
+// NOTE: in the Functional COmponent there must be a RETURN keyword included in it.
 
 // if we dont want to use this we have to make import statement in the App.js file like this:
 export function FunctionalComponent()

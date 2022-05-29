@@ -197,3 +197,9 @@ Component Type
 - Pure Component
 - Controlled Component 
 - Uncontrolled Component
+
+
+InterView Question
+Can we define new component in same component or nesting comonent in one another?
+- Yes.
+
