@@ -203,3 +203,26 @@ InterView Question
 Can we define new component in same component or nesting comonent in one another?
 - Yes.
 
+---------------------------------------------------------------------------------------------------------------
+
+
+Do we have to Install JSX in the Project environment
+- No, it is install by default in the Project or Application
+
+Full Form of JSX
+- JavaScript XML (JSX)
+
+
+Why we use JSX
+- We don't able to use JavaScript as well as HTML in the Same file.
+- exception is that we must use <script> tag in the HTML file to use JavaScript.
+
+- we use it because we don't want to use <script> tag in the file to use JavaScript.
+
+
+
+InterView Question
+Can we use both React (library) and Angular in same project
+- Yes
+- we can use React library in the other project as well.
+

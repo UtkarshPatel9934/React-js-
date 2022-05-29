@@ -21,6 +21,11 @@ import {FunctionalComponent} from './FunctionalComponent'
 
 import ClassComponent from './ClassComponent'
 
+
+
+import CompWithoutJSX from './CompWithoutJSX'
+
+
 function App() {
 
   /* Nesting Component in One Another */
@@ -63,6 +68,11 @@ function App() {
     {/* Nested Component */}
     <NestedComonent/>
     {/* Nested Component */}
+
+
+
+    <CompWithoutJSX />
+    
 
 
     </div>
