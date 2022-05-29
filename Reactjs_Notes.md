@@ -174,3 +174,26 @@ If we want to uninstall the package
 - npm uninstall react-validation
 
 ---------------------------------------------------------------------------------------------------------------
+
+
+Components in React.js
+
+What is component?
+- a part or element of a large whole.
+- a piece of code that can reuse.
+- such as Fucntion.
+- But more powerful than function.
+- Header and Footer as an example.
+- Component can be reuse on the same page as well as different page.
+
+- App.js is a Root Compoment in this Project.
+
+
+
+Component Type
+- Functional Component
+- Class Component
+- HOC (High Order Component)
+- Pure Component
+- Controlled Component 
+- Uncontrolled Component
